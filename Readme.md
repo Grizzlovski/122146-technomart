@@ -1,7 +1,7 @@
 # Личный проект «Техномарт»
 
 * Студент: [Grigorio Grizzlovsky](https://up.htmlacademy.ru/htmlcss/21/user/122146).
-* Наставник: [Максим Ворожцо](https://htmlacademy.ru/profile/id485797).
+* Наставник: [Максим Ворожцов](https://htmlacademy.ru/profile/id485797).
 
 ---
 
